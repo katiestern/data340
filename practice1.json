@@ -3,16 +3,6 @@
     "features": [
         {
             "type": "Feature",
-            "id" : 1, 
-            "geometry": {
-                    "type": "Polygon",
-                    "coordinates": [
-                        [[1,0],[1,1],[0,1],[0,0],[1,0]]
-                    ]
-            }
-        },
-        {
-            "type": "Feature",
             "id": 2,
             "geometry": {
                 "type": "Polygon",
@@ -21,16 +11,6 @@
                 ]
             }
         },
-        {
-            "type": "Feature",
-            "id" : 3, 
-            "geometry": {
-                    "type": "Polygon",
-                    "coordinates": [
-                        [[11,10],[11,11],[10,11],[10,10],[11,10]]
-                    ]
-            }
-        }
     ]
 }
 
